@@ -30,3 +30,7 @@ Simple Weather App Enter city name: Ranchi
 Format of the output will look like this :
 
 Location: Ranchi, Jharkhand, India Temperature: 24.3°C (75.7°F) Feels like: 26.7°C Condition: Mist Humidity: 94% Wind: 18.7 km/h WSW Pressure: 1005.0 mb Visibility: 3.0 km UV Index: 0.0
+
+##OUTPUT##
+
+![Image](https://github.com/user-attachments/assets/32fd56cd-bce1-4605-b7a7-9d6c577890b7)
